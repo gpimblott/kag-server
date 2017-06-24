@@ -1,5 +1,5 @@
 # kag-server
-Dockerfile for King Arthurs Gold
+Dockerfile to run a local *King Arthur's Gold* Server
 
 
 This image is also built automatically on DockerHub ( https://hub.docker.com/r/gpimblott/kag-server/ ).
